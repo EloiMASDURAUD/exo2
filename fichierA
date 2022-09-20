@@ -1,0 +1,1 @@
+C'est sur le clavier que vous tapez ; ce que vous tapez et ce que renvoient les programmess'inscrit à l'écran ; les messages d'erreur renvoyés par les programmes s'affichent à l'écran.On peut rediriger la sortie standard d'une commande vers un fichier (caractère « > »). Lerésultat de la commande sera placé dans le fichier au lieu de s'afficher sur l'écran.
